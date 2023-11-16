@@ -1,5 +1,4 @@
-Minecraft Mobs API
-## Overview
+## Minecraft Mobs API Overview
 This API provides access to a database of Minecraft mobs to perform various operations like retrieving, adding, updating, and deleting mob data. The script includes functions for connecting to, creating, and managing a SQLite database for storing mob data.
 
 ## Dependencies
